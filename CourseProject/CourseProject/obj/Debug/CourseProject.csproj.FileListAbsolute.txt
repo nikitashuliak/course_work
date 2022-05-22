@@ -1,0 +1,13 @@
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\bin\Debug\System.CodeDom.dll
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\bin\Debug\System.CodeDom.xml
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\nikita.shuliak\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.pdb

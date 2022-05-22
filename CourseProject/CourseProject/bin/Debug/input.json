@@ -1,0 +1,16 @@
+{
+  "InputData": {
+    "GrantType": "GrantType",
+    "Resource": "Resource",
+    "ClientId": "ClientId",
+    "ClientSecret": "ClientSecret",
+    "ServiceUrl": "ServiceUrl",
+    "LogUrl": "https://www.google.com.ua/",
+    "LogsFolder": "C:\\Users\\nikita.shuliak\\source\\repos\\CourseProject\\LogsFolder\\",
+    "BotsName": "CourseProjectBot",
+    "DisableLogging": "false",
+    "EmailSubject": "test",
+    "EmailBusinessAdmins": "nikita.shuliak@trinetix.com",
+    "SendMail": "true"
+  }
+}
